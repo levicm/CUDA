@@ -1,0 +1,163 @@
+Device: GeForce 210
+Transfer size (MB): 16
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 2.646355
+  Device to Host bandwidth (GB/s): 2.382467
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 5.929451
+  Device to Host bandwidth (GB/s): 5.702874
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (MB): 4
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 2.487276
+  Device to Host bandwidth (GB/s): 2.586471
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 5.398575
+  Device to Host bandwidth (GB/s): 5.278563
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (MB): 2
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 2.439093
+  Device to Host bandwidth (GB/s): 2.495849
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 5.420230
+  Device to Host bandwidth (GB/s): 4.713803
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (MB): 0
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.105090
+  Device to Host bandwidth (GB/s): 0.106845
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 0.107293
+  Device to Host bandwidth (GB/s): 0.107203
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 4
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.103812
+  Device to Host bandwidth (GB/s): 0.107023
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 0.105523
+  Device to Host bandwidth (GB/s): 0.106845
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 512
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 2.035785
+  Device to Host bandwidth (GB/s): 1.820647
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 3.775985
+  Device to Host bandwidth (GB/s): 3.769036
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 256
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 1.902904
+  Device to Host bandwidth (GB/s): 1.713091
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 3.263745
+  Device to Host bandwidth (GB/s): 2.685021
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 64
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.655780
+  Device to Host bandwidth (GB/s): 1.018399
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 1.346483
+  Device to Host bandwidth (GB/s): 1.340314
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 32
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.482336
+  Device to Host bandwidth (GB/s): 0.660645
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 0.760208
+  Device to Host bandwidth (GB/s): 0.760208
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 16
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.236818
+  Device to Host bandwidth (GB/s): 0.262969
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 0.406027
+  Device to Host bandwidth (GB/s): 0.407968
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>Levi
+-Trab01.exe
+
+Device: GeForce 210
+Transfer size (KB): 8
+
+Pageable transfers
+  Host to Device bandwidth (GB/s): 0.188930
+  Device to Host bandwidth (GB/s): 0.210181
+
+Pinned transfers
+  Host to Device bandwidth (GB/s): 0.211221
+  Device to Host bandwidth (GB/s): 0.208639
+
+
+C:\Users\cudauser\Documents\Visual Studio 2012\Projects\Levi-Trab01\Release>
