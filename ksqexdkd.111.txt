@@ -1,0 +1,65 @@
+﻿Import inicial
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Levi-Trab03_Tiles2/Debug/cudart32_65.dll
+#	new file:   Levi-Trab03_Tiles2/Debug/cudart64_65.dll
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2.opensdf
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2.sln
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2.v11.suo
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2/Levi-Trab03_Tiles2.vcxproj
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2/Levi-Trab03_Tiles2.vcxproj.user
+#	new file:   Levi-Trab03_Tiles2/Levi-Trab03_Tiles2/kernel.cu
+#
+# Untracked files:
+#	.gitignore
+#	0u1015dt.nej.txt
+#	Levi-Trab01_Memoria/Debug/
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/Levi-Trab01.log
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/bandwidthtest.cu.obj
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link-cvtres.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link-cvtres.write.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link-rc.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link-rc.write.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link.command.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Debug/link.write.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/Levi-Trab01.log
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/bandwidthtest.cu.obj
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link-cvtres.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link-cvtres.write.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link-rc.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link-rc.write.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link.command.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link.read.1.tlog
+#	Levi-Trab01_Memoria/Levi-Trab01/Release/link.write.1.tlog
+#	Levi-Trab01_Memoria/Release/
+#	Levi-Trab02_Ocupacao/Win32/Debug/link-cvtres.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link-cvtres.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link-rc.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link-rc.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268-cvtres.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268-cvtres.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268-rc.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268-rc.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.3268.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376-cvtres.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376-cvtres.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376-rc.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376-rc.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.4376.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.command.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.read.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/link.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/simpleOccupancy.Build.CppClean.log
+#	Levi-Trab02_Ocupacao/Win32/Debug/simpleOccupancy.cu.obj
+#	Levi-Trab02_Ocupacao/Win32/Debug/simpleOccupancy.write.1.tlog
+#	Levi-Trab02_Ocupacao/Win32/Debug/simpleOccupancy_vs2012.log
+#
+
